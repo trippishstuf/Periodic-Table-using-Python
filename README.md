@@ -1,5 +1,4 @@
-# Periodic-Table-using-Python
-Introductin:
+Introductin:# Periodic-Table-using-Python
 The Python program in question is primarily centered around the periodic table and aims to provide comprehensive information about naturally occurring elements. This includes key data such as the element's name, atomic number, atomic mass, relative atomic mass, periodic number, group number, and atomic symbol. These details are essential for understanding the unique characteristics and behaviors of each element.
 
 The program is constructed using conditional statements, specifically if, elif, and else, to facilitate user access to elemental information. Users can input various queries, including the atomic number, atomic symbol, element name, or the group or period in which the element is situated. Depending on the query, the program generates specific responses, rendering it a versatile and user-friendly tool for exploring elemental data.
